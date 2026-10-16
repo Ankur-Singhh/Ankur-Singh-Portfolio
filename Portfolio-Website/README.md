@@ -46,11 +46,6 @@ An AI-driven urban management concept using predictive models and zone-wise visu
 
 **Tech Stack:** Next.js, Machine Learning.
 
-### 4. ORBIT — Local Commerce Platform
-A mobile platform connecting local general stores with digital commerce to help vendors digitize operations and reach more customers.
-
-**Tech Stack:** Flutter, Dart, Firebase Firestore, Firebase Authentication.
-
 ## 🏆 Achievements
 
 - **SIES Innovations 2026:** Team Lead and finalist; presented an AI-powered logistics solution.
