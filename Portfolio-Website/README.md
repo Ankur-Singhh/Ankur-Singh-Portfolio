@@ -1,65 +1,68 @@
-# My Portfolio Website - Overview 🚀
+# Hi, I'm Ankur Singh 👋
 
-This repository contains the open-source version of my personal portfolio website.  
-Feel free to explore the code and use it for learning and inspiration.
+### Computer Engineering Student | Data Science | AI/ML | Full-Stack Development
+
+I'm a Computer Engineering student specializing in Data Science at Lokmanya Tilak College of Engineering, interested in building practical solutions using AI/ML, full-stack development, data analytics, and blockchain technologies.
+
+I enjoy working on real-world problems, experimenting with emerging technologies, and collaborating with teams to turn ideas into working prototypes.
+
+## 🚀 About Me
+
+- 🎓 Pursuing Computer Engineering (Data Science).
+- 🤖 Interested in AI/ML, intelligent systems, and data-driven applications.
+- 💻 Building full-stack applications and backend services.
+- ⛓️ Exploring blockchain, smart contracts, and IoT-based solutions.
+- 🏆 Team Lead and finalist at multiple innovation and hackathon events.
+- 🤝 President of the Data Science Students Association.
+
+## 🛠️ Technical Skills
+
+**Languages & Data:** Python, SQL, MySQL
+
+**Frontend:** React.js, Next.js, TypeScript
+
+**Backend & APIs:** Node.js, REST APIs, Supabase
+
+**AI & Data Science:** Machine Learning, Data Analysis, Scikit-learn, Power BI
+
+**Blockchain & IoT:** Smart Contracts, Blockchain, ESP32
+
+**Tools:** Git, GitHub, VS Code, Firebase
+
+## 📌 Featured Projects
+
+### 1. VIDYUT — Intelligent Renewable Energy Platform
+An IoT-enabled renewable energy platform designed to measure and verify solar energy exports, calculate energy credits, and support transparent credit ownership using blockchain.
+
+**Tech Stack:** Next.js, React, TypeScript, ESP32, Smart Contracts, AI/ML, REST APIs.
+
+### 2. REDOXX — AI-Powered Logistics Platform
+An AI-powered freight logistics platform focused on vehicle prediction, load matching, cost estimation, and auction-based booking to improve pricing transparency and vehicle utilization.
+
+**Tech Stack:** React.js, Node.js, Supabase, CrewAI, Scikit-learn.
+
+### 3. NagarSetu — Smart Urban Management System
+An AI-driven urban management concept using predictive models and zone-wise visualizations to support urban planning, resource allocation, and forecasting.
+
+**Tech Stack:** Next.js, Machine Learning.
+
+### 4. ORBIT — Local Commerce Platform
+A mobile platform connecting local general stores with digital commerce to help vendors digitize operations and reach more customers.
+
+**Tech Stack:** Flutter, Dart, Firebase Firestore, Firebase Authentication.
+
+## 🏆 Achievements
+
+- **SIES Innovations 2026:** Team Lead and finalist; presented an AI-powered logistics solution.
+- **DIPEX 2026:** Presented a working project prototype to evaluators.
+- **Smart India Hackathon 2025:** Team Lead and finalist; coordinated a six-member team during the 36-hour hackathon.
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/Ankur-Singhh
+- LinkedIn: https://linkedin.com/in/ankurr-singh/
+- Email: ankursingh99421@gmail.com
 
 ---
 
-## ⚠️ Usage Notice
-
-This project is shared for learning purposes only.
-
-Please do NOT:
-- Clone or replicate the full website or design
-- Repost it with minor content changes
-- Use this project for commercial/client work
-- Create tutorials or content using this exact project
-
-If you use parts of the code, you must provide proper credit linking back to the original repository.
-
-Build your own version — don’t just copy.
-
-— Moncy Yohannan
-
----
-
-## 🛠️ Instructions
-
-I have modified the GSAP Club plugins using trial versions.  
-⚠️ Note: Trial plugins cannot be used for production or hosting.
-
-For official GSAP Club plugins, refer here:  
-https://gsap.com/docs/v3/Installation/
-
----
-
-## ⚙️ Tech Stack
-
-React • TypeScript • GSAP • Three.js • WebGL • HTML • CSS • JavaScript
-
----
-
-## 🎨 Assets Usage
-
-Some 3D assets included in this repository are free to use for learning purposes.
-
-However:
-
-- The original 3D avatar used on my live portfolio is NOT included in this repository
-- That avatar is a custom asset created over ~1 month
-- It is not open source and not available for reuse
-
-Any usage, extraction, or redistribution of that avatar from my live website is strictly prohibited.
-
----
-
-![Protfolio-Preview](https://github.com/user-attachments/assets/3c4557e7-6392-4928-b8a9-7b2476ef4edd)
-
----
-
-## 📄 License
-
-This project is licensed under the Personal Portfolio License (PPL) v1.0.
-
-See the LICENSE file for full details
-
+⭐ Always learning, building, and exploring new technologies.
